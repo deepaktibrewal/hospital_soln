@@ -1,0 +1,31 @@
+.footer-bottom {
+    background-color: #15B4F0;
+    min-height: 50px;
+    width: 100%;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: left;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    padding-top: 10px;
+    text-align: right;
+}
+.l6txt
+{
+	color: white;
+	padding: 10px;
+}
+.small{
+	text-align: center;
+}
+.small1{
+	margin-top: -15px;
+	text-align: center;
+}
